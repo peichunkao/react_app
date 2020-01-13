@@ -1,0 +1,22 @@
+.ball {
+  display: inline-block;
+  background-color: tomato;
+  border: 2px solid white;
+  color: white;
+  margin: 10px 10px;
+  border-radius: 50%;
+  width: 3em;
+  height: 2.2em;
+  padding-top: 0.8em;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+button {
+  margin-bottom: 1em;
+  background-color: darkblue;
+  color: white;
+  font-size: 120%;
+  border-radius: 10px;
+  margin-top: 1em;
+}

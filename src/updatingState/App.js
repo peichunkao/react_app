@@ -1,12 +1,15 @@
 import React, { Component } from 'react'
+//import Dice from './Dice'
+import ScoreKeeper from './ScoreKeeper'
+import IconList from './IconList'
 import './App.css';
-import BoxContainer from './BoxContainer'
 
 class App extends Component {
   render() {
     return (
       <div className='App'>
-        <BoxContainer />
+        <ScoreKeeper />
+        <IconList />
       </div>
     )
   }

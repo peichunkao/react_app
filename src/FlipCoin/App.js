@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 import './App.css';
-import BoxContainer from './BoxContainer'
+import FlipCoin from './FlipCoin'
 
 class App extends Component {
   render() {
     return (
       <div className='App'>
-        <BoxContainer />
+        <FlipCoin />
       </div>
     )
   }
